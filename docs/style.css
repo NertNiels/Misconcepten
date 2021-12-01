@@ -6,7 +6,7 @@ html {
 
 body {
     background-color: #fceea7;
-    background-image: url(bg.jpg);
+    background-image: url('bg.jpg');
     background-size: cover;
     font-family: 'M PLUS 1 Code', sans-serif;
     padding:0;
