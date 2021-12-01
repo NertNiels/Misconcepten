@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<misconcept-data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ELEMENT>
+        <NAAM>Horizontaal en Verticaal</NAAM>
+        <ID>henvas</ID>
+        <UITLEG>Leerlingen willen nog wel eens horizontaal en verticaal door elkaar halen. Dit kun je uitleggen door het de relativeren met de horizon bij het strand.</UITLEG>
+    </ELEMENT>
+    <ELEMENT>
+        <NAAM>Coördinaten</NAAM>
+        <ID>coordinaten</ID>
+        <UITLEG>Leerlingen halen nog wel eens door elkaar welke coördinaat bij de x- en de y-as hoort. Eerst naar rechts, dan omhoog. Of eerst opzij, dan omhoog. Haal deze er zo snel mogelijk uit.</UITLEG>
+    </ELEMENT>
+</misconcept-data>
+
