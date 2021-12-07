@@ -10,5 +10,15 @@
         <ID>coordinaten</ID>
         <UITLEG>Leerlingen halen nog wel eens door elkaar welke coördinaat bij de x- en de y-as hoort. Eerst naar rechts, dan omhoog. Of eerst opzij, dan omhoog. Haal deze er zo snel mogelijk uit.</UITLEG>
     </ELEMENT>
+    <ELEMENT>
+        <NAAM>Eenheden en Grootheden</NAAM>
+        <ID>eengr</ID>
+        <UITLEG>Leerlingen vinden het verschil tussen eenheden en grootheden al snel heel erg lastig. Een grootheid is afstand, gewicht, inhoud. Een eenheid is alles waar je een grootheid mee kan benoemen, dus: meter, centimeter, km/u, liter. Dit vinden leerlingen heel erg lastig.</UITLEG>
+    </ELEMENT>
+    <ELEMENT>
+        <NAAM>Kilo, deca, deci, centi...</NAAM>
+        <ID>greenheid</ID>
+        <UITLEG>Leerlingen weten dat 1 kilometer 1000 meter is, maar wat is 10 hectometer? Het rijtje van kilo, hecto, deca etc... moeten ze helemaal uit hun hoofd kennen op dit niveau. Dit vinden ze heel erg lastig en dit is gewoon een heel lastig hoofdstuk. Het is hier belangrijk dat dit zo duidelijk en doorzichtig mogelijk wordt uitgelegd.</UITLEG>
+    </ELEMENT>
 </misconcept-data>
 
